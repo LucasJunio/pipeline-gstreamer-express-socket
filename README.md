@@ -10,7 +10,7 @@
 	🚧   Finished 🚀 🚧
 </h4>
 
-### Pré-requisitos
+### Prerequisites
 
 Before you need install follow tools in your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).

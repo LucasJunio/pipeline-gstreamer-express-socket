@@ -9,7 +9,6 @@ app.use(express.static(__dirname + '/'));
 const httpServer = http.createServer(app);
 const port = 3000;  
 
-
 //send the video stream
 app.get('/stream', function (req, res) {
     res.writeHead(200, {
