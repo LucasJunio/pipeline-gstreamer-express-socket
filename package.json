@@ -1,0 +1,28 @@
+{
+  "name": "gstreamer",
+  "version": "1.0.0",
+  "description": "Implement a simple pipeline for video playback using GStreamer.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasJunio/gstreamer.git"
+  },
+  "keywords": [
+    "gstreamer",
+    "pipeline",
+    "playback"
+  ],
+  "author": "Lucas Junio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasJunio/gstreamer/issues"
+  },
+  "homepage": "https://github.com/LucasJunio/gstreamer#readme"
+}
