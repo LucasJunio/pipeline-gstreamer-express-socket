@@ -37,6 +37,10 @@ $ node index.js
 
 ```
 
+<h4> 
+See complete execution in emulate.gif file attachement.
+</h4>
+
 ---
 
 ## 🦸 Author
