@@ -38,7 +38,7 @@ $ node index.js
 ```
 
 <h4> 
-See complete execution in emulate.gif file attachement.
+See complete execution in emulate.gif file attachment.
 </h4>
 
 ---
