@@ -13,7 +13,7 @@
 ### Prerequisites
 
 Before you need install follow tools in your machine:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Linux](https://www.linux.org/) or [Windows](https://learn.microsoft.com/en-us/windows/) + [WSL2](https://learn.microsoft.com/en-us/windows/wsl/).
 Beyond is good to has an editor for to work with the code like [VSCode](https://code.visualstudio.com/)
 
 ### 🔬 Runing test
