@@ -13,7 +13,7 @@
 
 ### Overview
 
-This application is a test of how to use gstreamer library that is a framework for creating streaming media applications.
+Implement a simple pipeline for video playback using GStreamer. This application is a test of how to use gstreamer library that is a framework for creating streaming media applications.
 
 Result:
 
