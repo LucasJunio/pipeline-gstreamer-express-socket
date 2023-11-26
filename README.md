@@ -10,6 +10,11 @@
 	🚧   Finished 🚀 🚧
 </h4>
 
+
+### Overview
+
+This application is a test of how to use gstreamer library that is a framework for creating streaming media applications.
+
 ### Prerequisites
 
 Before you need install follow tools in your machine:
